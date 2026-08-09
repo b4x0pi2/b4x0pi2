@@ -1,37 +1,119 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff41,100:0f0f0f&height=220&section=header&text=b4x0pi2&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Breaking%20things%20so%20I%20can%20learn%20how%20to%20fix%20them&descAlignY=58&descSize=18" width="100%"/>
 
-<!--
-**Alpha-babar/Alpha-babar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+whoami;Student+%7C+Learning+to+Code;%3E+cat+goals.txt;Currently+debugging+life...;%3E+sudo+access+granted+%E2%9C%93" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
+## 💻 root@b4x0pi2:~$
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/the_babarrrr?igsh=MWRyZjYxYmJqeXpseA==) 
+```bash
+> class Student:
+>     def __init__(self):
+>         self.name       = "b4x0pi2"
+>         self.role       = "CS Student / Aspiring Developer"
+>         self.currently  = ["Learning to code", "Breaking stuff", "Fixing stuff"]
+>         self.goal       = "Level up, one bug at a time"
+>         self.fun_fact   = "My code works, I have no idea why 🐛"
+```
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Buefy](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![SvelteKit](https://img.shields.io/badge/sveltekit-%23ff3e00.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Octopus Deploy](https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Alpha-babar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Alpha-babar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-babar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📡 Status Log
 
----
-[![](https://visitcount.itsvg.in/api?id=Alpha-babar&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| | |
+|---|---|
+| 🔭 | Currently working on **leveling up my dev skills** |
+| 🌱 | Currently learning **new languages & frameworks** |
+| 👯 | Looking to collaborate on **fun / open-source projects** |
+| 🤝 | Looking for help with **real-world project experience** |
+| 💬 | Ask me about **coding, learning resources, tech** |
+| ⚡ | Fun fact: **I debug more than I write code** |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41&labelColor=000000)](https://www.instagram.com/the_babarrrr)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+## ⚙️ Tech Arsenal
+
+<div align="center">
+
+![C++](https://img.shields.io/badge/c++-000000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=00FF41)
+![C](https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=00FF41)
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=00FF41)
+![PHP](https://img.shields.io/badge/php-000000.svg?style=for-the-badge&logo=php&logoColor=00FF41)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000.svg?style=for-the-badge&logo=powershell&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/bash-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
+![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub](https://img.shields.io/badge/github-000000.svg?style=for-the-badge&logo=github&logoColor=00FF41)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000.svg?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41)
+![Linux](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=00FF41)
+![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=00FF41)
+![Nginx](https://img.shields.io/badge/nginx-000000.svg?style=for-the-badge&logo=nginx&logoColor=00FF41)
+![Kubernetes](https://img.shields.io/badge/kubernetes-000000.svg?style=for-the-badge&logo=kubernetes&logoColor=00FF41)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+## 📊 System Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alpha-babar&theme=dark&hide_border=true&background=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&ring_color=00FF41" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-babar&theme=dark&hide_border=true&background=0d1117&title_color=00FF41&text_color=c9d1d9&layout=compact" width="49%"/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Alpha-babar&theme=dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="70%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alpha-babar&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff" width="90%"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Alpha-babar&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+</div>
+
+## ✍️ Terminal Wisdom
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=matrix)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=Alpha-babar&icon=9&color=2)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff41,100:0f0f0f&height=100&section=footer" width="100%"/>
+
+**`> connection closed by remote host_`**
+
+</div>
+
+<!-- Proudly upgraded from GPRM base ( https://gprm.itsvg.in ) -->
