@@ -1,45 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff41,100:0f0f0f&height=220&section=header&text=b4x0pi2&fontSize=70&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Breaking%20things%20so%20I%20can%20learn%20how%20to%20fix%20them&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+whoami;Student+%7C+Learning+to+Code;%3E+cat+goals.txt;Currently+debugging+life...;%3E+sudo+access+granted+%E2%9C%93" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=250&section=header&text=b4x0pi2&fontSize=75&fontColor=00FF41&animation=fadeIn&fontAlignY=32&desc=%3E%20initializing_developer.exe...&descAlignY=52&descSize=20&descColor=00FF41"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=root%40b4x0pi2%3A~%24+boot+--sequence;%5B+OK+%5D+Loading+curiosity+module...;%5B+OK+%5D+Loading+caffeine.dll...;%5B+OK+%5D+Student+mode%3A+ACTIVATED;%3E+System+ready.+Welcome." alt="Terminal Boot"/>
 
 </div>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 💻 root@b4x0pi2:~$
+## 💻 root@b4x0pi2:~$ cat about.py
 
-```bash
-> class Student:
->     def __init__(self):
->         self.name       = "b4x0pi2"
->         self.role       = "CS Student / Aspiring Developer"
->         self.currently  = ["Learning to code", "Breaking stuff", "Fixing stuff"]
->         self.goal       = "Level up, one bug at a time"
->         self.fun_fact   = "My code works, I have no idea why 🐛"
+```python
+class Student:
+    def __init__(self):
+        self.name       = "b4x0pi2"
+        self.role       = "CS Student / Aspiring Developer"
+        self.status     = ["🔭 Leveling up my dev skills",
+                            "🌱 Learning new languages & frameworks",
+                            "👯 Open to fun / open-source collabs",
+                            "🤝 Looking for real-world project experience"]
+        self.ask_me     = "coding, learning resources, tech"
+        self.fun_fact   = "My code works, I have no idea why 🐛"
+
+    def status_report(self):
+        return "> Still debugging life, one commit at a time."
 ```
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 📡 Status Log
+## 📡 Live Feed
 
 <div align="center">
-
-| | |
-|---|---|
-| 🔭 | Currently working on **leveling up my dev skills** |
-| 🌱 | Currently learning **new languages & frameworks** |
-| 👯 | Looking to collaborate on **fun / open-source projects** |
-| 🤝 | Looking for help with **real-world project experience** |
-| 💬 | Ask me about **coding, learning resources, tech** |
-| ⚡ | Fun fact: **I debug more than I write code** |
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%5Btail+-f+system.log%5D;Compiling+knowledge...+87%25;Fixing+bug+%23404%3A+Bug+not+found;Pushing+to+main+(YOLO+mode);git+commit+-m+%22it+works+on+my+machine%22" />
 </div>
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
@@ -88,6 +87,16 @@
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
+## 🌍 Contribution Globe
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Xetrov/github-3d-contribution-graph/main/example.gif" width="70%"/>
+
+<sub>⚠️ Globe renders automatically once the GitHub Action (setup below) runs on your repo</sub>
+</div>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+
 ## 🏆 Trophy Case
 
 <div align="center">
@@ -110,7 +119,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Alpha-babar&icon=9&color=2)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ff41,100:0f0f0f&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer"/>
 
 **`> connection closed by remote host_`**
 
